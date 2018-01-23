@@ -60,30 +60,3 @@ In spite of the fact that JavaScript was created in 10 days (by [Brendan Eich](h
 JavaScript has a long history of not running exactly in the same way in various browsers, since browsers, created and maintained by different organizations, might take liberties in how they run JavaScript, in spite of a neutral body of standards intended to define the language. In years recent, developers have started to utilize a tool called a **transpiler**, which takes some version of JavaScript code that a browser may not understand exactly how to run, and **transpile** it into some older version of the JavaScript language that is more commonly agreed upon.
 
 In this way, developers found that they were able to start utilizing some proposed improvements to the language in their own code, *before the browsers were ready to support them.* In spite of the overhead of running a transpiler, developers loved being able to use the newest language features "pre-release," and got to thinking there might be more to get out of this pattern. In the last several years, many extensions to JavaScript have been made available to developers via transpiling, and the language is now experiencing something of a renaissance, allowing JavaScript developers to program using a language more akin to their desires, less encumbered by the slow, disjointed process, of new language features being standardized and adopted consistently by the browsers.
-
-## Table of Contents
-
-### Basic Training Materials
-
-- [Introduction](../README.md)
-- *JavaScript and Modern Web Development*
-- [Dev Environment Setup](setup.md)
-- [Introduction to Functions](intro_to_javascript_functions.md)
-- [Basic Use of Functions](basic_use_of_functions.md)
-- [JavaScript Types Crash Course](type_crash_course.md)
-- [Functions that Make Values](functions_that_make_values.md)
-- [Variables](variables.md)
-- [String Methods](string_methods.md)
-- [Introduction to Arrays](intro_to_arrays.md)
-- [Defining Functions](defining_functions.md)
-- [Leveraging Multiple Functions](leveraging_multiple_functions.md)
-- [Next Steps](next_steps.md)
-
-### Advanced Content
-
-- [Passing Functions as Arguments](passing_functions_as_arguments.md)
-- [Higher Order Array Methods](higher_order_array_methods.md)
-
-### Appendix
-
-- [Reference and Further Study](reference.md)

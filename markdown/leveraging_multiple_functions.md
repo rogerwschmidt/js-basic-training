@@ -139,30 +139,3 @@ Before continuing, be sure that you can:
 You now have a very powerful technique at your disposal: breaking complicated problems down into smaller problems that you already know how to solve. Additionally you have a growing "vocabulary" of built in JavaScript functions, methods, and operators that are growing the size of "problems you already know how to solve."
 
 You should continue to add "problems you already know how to solve" to your repertoire. The best way to do this is to solve more problems, and review other people's solutions to problems. Up next is a strategy guide for how to go about doing just that.
-
-## Table of Contents
-
-### Basic Training Materials
-
-- [Introduction](../README.md)
-- [JavaScript and Modern Web Development](modern_web_development.md)
-- [Dev Environment Setup](setup.md)
-- [Introduction to Functions](intro_to_javascript_functions.md)
-- [Basic Use of Functions](basic_use_of_functions.md)
-- [JavaScript Types Crash Course](type_crash_course.md)
-- [Functions that Make Values](functions_that_make_values.md)
-- [Variables](variables.md)
-- [String Methods](string_methods.md)
-- [Introduction to Arrays](intro_to_arrays.md)
-- [Defining Functions](defining_functions.md)
-- *Leveraging Multiple Functions*
-- [Next Steps](next_steps.md)
-
-### Advanced Content
-
-- [Passing Functions as Arguments](passing_functions_as_arguments.md)
-- [Higher Order Array Methods](higher_order_array_methods.md)
-
-### Appendix
-
-- [Reference and Further Study](reference.md)

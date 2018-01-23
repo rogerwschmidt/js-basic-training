@@ -278,30 +278,3 @@ let values = ['letters', 3, '5', 4, ['a', 'b'], '2', false, 8, () => {}];
 let sumOfNumberLikes = makeSumOfNumberLikes(values);
 console.log(sumOfNumberLikes);
 ```
-
-## Table of Contents
-
-### Basic Training Materials
-
-- [Introduction](../README.md)
-- [JavaScript and Modern Web Development](modern_web_development.md)
-- [Dev Environment Setup](setup.md)
-- [Introduction to Functions](intro_to_javascript_functions.md)
-- [Basic Use of Functions](basic_use_of_functions.md)
-- [JavaScript Types Crash Course](type_crash_course.md)
-- [Functions that Make Values](functions_that_make_values.md)
-- [Variables](variables.md)
-- [String Methods](string_methods.md)
-- [Introduction to Arrays](intro_to_arrays.md)
-- [Defining Functions](defining_functions.md)
-- [Leveraging Multiple Functions](leveraging_multiple_functions.md)
-- [Next Steps](next_steps.md)
-
-### Advanced Content
-
-- [Passing Functions as Arguments](passing_functions_as_arguments.md)
-- *Higher Order Array Methods*
-
-### Appendix
-
-- [Reference and Further Study](reference.md)

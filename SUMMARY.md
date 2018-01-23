@@ -1,7 +1,7 @@
 # Summary
 
 ### Getting Started
-* [Using the guide](./README.md)
+* [Introduction](./README.md)
 
 ### Contents
 * [JavaScript and Modern Web Development](markdown/modern_web_development.md)
@@ -16,3 +16,12 @@
 * [Defining Functions](markdown/defining_functions.md)
 * [Leveraging Multiple Functions](markdown/leveraging_multiple_functions.md)
 * [Next Steps](markdown/next_steps.md)
+
+### Advanced Content
+
+- [Passing Functions as Arguments](markdown/passing_functions_as_arguments.md)
+- [Higher Order Array Methods](markdown/higher_order_array_methods.md)
+
+### Appendix
+
+- [Reference and Further Study](markdown/reference.md)
